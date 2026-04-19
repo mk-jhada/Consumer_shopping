@@ -1,2 +1,2 @@
-# Consume_shopping
+# Consumer_shopping
 Consumer sopping trend analysis
