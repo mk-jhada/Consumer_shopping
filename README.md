@@ -1,6 +1,10 @@
 # Consumer_shopping
 Consumer shopping trend analysis
-Project Details:
+
+**Technologies Used:** Microsoft Excel, Power Query, Pivot Tables, Slicers, Visualization, Charts.
+**Key Skills:** Data Cleaning, Dashboard Creation.
+
+**Project Details:**
 Here in this project, I have to analyze the purchasing habits and shopping habits of the customers based on several factors ( age , income, gender, etc.).  
 
 For this, I worked on the external site data (~ 12,000 customers) and imported the .csv file to Excel . 
